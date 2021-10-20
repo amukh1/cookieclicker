@@ -1,3 +1,4 @@
+
 .nav
 {
 	position:absolute;
@@ -9,9 +10,17 @@
 	color:#ccc;
 }
 
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .leaderBox {
+    width: 400px;
+    height: 800px;
     border-style: solid;
     border-width: 1px;
     border-radius: 2px;
-    background-color: dimgrey;
+    background-color: dimgrey;;
 }
