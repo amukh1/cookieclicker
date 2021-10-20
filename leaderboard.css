@@ -17,8 +17,7 @@
 
 .leaderBox {
     display: flex;
-    align-items: center;
-    justify-content:start;
+    justify-content:center;
     border-style: solid;
     border-width: 1px;
     border-radius: 2px;
@@ -31,4 +30,4 @@ box-shadow: 5px 5px 5px 5px #888888;
 .leaderboardTEXT{
 
     color:gold
-}
+}a
