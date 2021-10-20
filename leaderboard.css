@@ -16,6 +16,9 @@
 }
 
 .leaderBox {
+    display: flex;
+    align-items: center;
+    justify-content:start;
     border-style: solid;
     border-width: 1px;
     border-radius: 2px;
